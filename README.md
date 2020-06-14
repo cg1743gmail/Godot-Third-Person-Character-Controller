@@ -6,3 +6,5 @@ This project showcases the usage of BlendSpace2D and AnimationNode Transition to
 I also implemented in this project a Camera feature for zoom-in and zoom-out, as well as Camera collision detection using RayCast.
 
 You can use this project and improve it according to your needs.
+
+This repository is using git-lfs.
